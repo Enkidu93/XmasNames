@@ -1,1 +1,1 @@
-{"names": {"Santa": {"is_active": true, "passkey": "kl^0s", "has": "nobody"}, "Benjamin": {"has": "Anggel"}, "Caitlin": {"has": "Benjamin"}, "Anggel": {"has": "Caitlin"}, "Eli": {"passkey": "1234", "is_active": true, "has": "Joshua"}, "Joshua": {"has": "Eli"}}}
+{"names": {"Santa": {"is_active": true, "passkey": "kl^0s", "has": "nobody"}, "Benjamin": {"has": "Anggel"}, "Caitlin": {"has": "Benjamin"}, "Anggel": {"has": "Caitlin"}, "Eli": {"has": "Joshua"}, "Joshua": {"has": "Eli"}}}
